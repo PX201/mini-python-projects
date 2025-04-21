@@ -16,6 +16,17 @@ Each player takes turns rolling a 6-sided die and tries to reach 50 points.
 - Players can choose to continue rolling or hold and keep their score.  
 - First player to reach or exceed 50 total points wins.
 
+### 3. Project 3 - Contact Book 📇
+
+A simple terminal-based Contact Book built with Python.  
+This project helps you learn the basics of object-oriented programming, modules, and file structure in Python.
+
+#### 🚀 Features
+- Add a new contact (name, phone, email)
+- View all saved contacts
+- Search for a contact by name
+
+
 ## How to Run
 
 Make sure you have Python 3 installed.  
