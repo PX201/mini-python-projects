@@ -26,6 +26,16 @@ This project helps you learn the basics of object-oriented programming, modules,
 - View all saved contacts
 - Search for a contact by name
 
+### 📘 Project 4: Simple Note App
+
+A command-line note-taking app built in Python. Notes are saved as individual `.txt` files in a local folder.  
+You can create, read, list, and delete notes — all through a simple interactive menu.
+
+Learned concepts:
+- File handling in Python (`open`, `read`, `write`)
+- Directory and path management with `os`
+- Organizing code using classes and folders
+
 
 ## How to Run
 
