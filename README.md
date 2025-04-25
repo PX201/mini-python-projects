@@ -26,7 +26,7 @@ This project helps you learn the basics of object-oriented programming, modules,
 - View all saved contacts
 - Search for a contact by name
 
-### 📘 Project 4: Simple Note App
+### 4. Project 4 Simple Note App
 
 A command-line note-taking app built in Python. Notes are saved as individual `.txt` files in a local folder.  
 You can create, read, list, and delete notes — all through a simple interactive menu.
@@ -36,10 +36,32 @@ Learned concepts:
 - Directory and path management with `os`
 - Organizing code using classes and folders
 
+### 5. Project 5 Weather App  
+A simple command-line Weather Application using the OpenWeather API.  
+It lets users check the current weather by city name.
 
+**Skills learned:**
+- Working with external APIs using `requests`
+- Using `.env` files and `python-dotenv` for secure API key storage
+- Parsing JSON responses
+- Modular design using Python classes
+- Building user-friendly command-line interfaces
+
+**Features:**
+- Search weather by city
+- Displays temperature, condition, country, etc.
+- Clean output formatting in terminal
+- Graceful handling of invalid city names or API issues
+
+**Before you run project 5:**
+1. Create a `.env` file in the `weather_app/` folder:
+```bash
+OPENWEATHER_API_KEY=YOUR_API_KEY
+```
 ## How to Run
 
 Make sure you have Python 3 installed.  
 Run any project with:
 ```bash
 python3 project.py
+```
